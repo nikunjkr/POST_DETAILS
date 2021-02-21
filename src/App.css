@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  /* outline: auto; */
+}
+
+.app {
+  background-color: rgb(239, 239, 239);
+  height: auto;
+  /* padding-left: 200px; */
+  /* padding-right: 300px; */
+}
+.app__header {
+  background-color: white;
+  padding: 10px;
+  border-bottom: 1px solid lightgrey;
+  object-fit: contain;
+  height: 60px;
+  vertical-align: middle;
+}
+
+.app__headerImage {
+  display: flex;
+  align-items: center;
+  display:block;
+  /* background-color: white; */
+ 
+  height: 80px;
+  width: 160px;
+  
+}
